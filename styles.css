@@ -99,20 +99,6 @@ a:hover {
     box-shadow: inset 0px 1px 4px 1px rgb(0, 0, 0, 0.3);
 }
 
-/*
-Stretch goals:
-Find other ways you can personalize 
-the design of your business card, e.g.:
-- change the border(s)
-- add border radius
-- shuffle the layout
-- shadows        🤯
-- hover effects  🤯🤯
-- animations     🤯🤯🤯
-*/
-
-/*
-Final challenge:
-Download the code to your local computer and place it
-in a folder called "business-card"
-*/
+small {
+    margin:0 4px;
+}
